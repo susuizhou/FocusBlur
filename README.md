@@ -9,6 +9,6 @@
 
 效果图
 
-![](.\8881.jpg)
+![](https://github.com/susuizhou/FocusBlur/blob/main/8881.jpg?raw=true)
 
-![](.\processed_image_overlay.jpg)
+![](https://github.com/susuizhou/FocusBlur/blob/main/processed_image_overlay.jpg?raw=true)
